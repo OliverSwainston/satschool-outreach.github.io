@@ -48,7 +48,7 @@ Are you a PhD student or researcher in Earth Observation? We are always looking 
 
 ### Contact Us
 * **Email**: [satschool.outreach@gmail.com](mailto:satschool.outreach@gmail.com)
-* **Twitter/X**: [@SatSchool_](https://twitter.com/SatSchool_)
+* **LinkedIn**: [SatSchool Outreach](https://uk.linkedin.com/company/satschool-outreach)
 
 ---
 
