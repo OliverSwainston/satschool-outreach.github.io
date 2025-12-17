@@ -122,6 +122,9 @@ SatSchool is supported by:
 
 ## 📄 License
 
-The content of this project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+The content of this project created by SatSchool is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
 
-You are free to use and adapt these materials for **non-commercial** educational purposes, provided you credit **SatSchool** and license any new creations under these same terms.
+You are free to use and adapt these materials for **non-commercial** educational purposes, provided you credit **SatSchool**.
+
+**Third-Party Content Disclaimer:**
+Some materials (slides, worksheets) may contain images or data from third-party sources (e.g., NASA, ESA, Copernicus) which are used here for educational purposes. These assets retain their original copyright and license terms. Please refer to individual slides/documents for specific image credits.
