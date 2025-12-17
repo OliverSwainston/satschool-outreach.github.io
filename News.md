@@ -15,7 +15,7 @@ gallery: news
 ---
 
 <center>
-<a href="https://bsky.app/profile/satschool.bsky.social">Follow SatSchool news on Bluesky</a>
+<a href="https://uk.linkedin.com/company/satschool-outreach">Follow SatSchool news on LinkedIn</a>
 </center>
 
 <br/>
