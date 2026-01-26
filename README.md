@@ -9,7 +9,7 @@
 
 **SatSchool** is an outreach programme designed to introduce lower secondary school pupils (S1-S3 / KS3) to the fascinating world of Earth Observation (EO). 
 
-Initially setup by PhD students from the **SENSE CDT** (Centre for Satellite Data in Environmental Science), our goal is to inspire the next generation of scientists by showing them how we use satellites to monitor our changing planet. Test. 
+Initially setup by PhD students from the **SENSE CDT** (Centre for Satellite Data in Environmental Science), our goal is to inspire the next generation of scientists by showing them how we use satellites to monitor our changing planet. 
 
 We provide **12+ hours of freely available, interactive resources** tailored to the STEM curriculum, covering Physics, Geography, Computer Science, Maths, Biology, and Chemistry.
 
